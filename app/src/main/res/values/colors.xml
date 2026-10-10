@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Olympic plate colours: calm blue while resting, red the moment rest is over -->
+    <color name="plate_blue">#1B3F7A</color>
+    <color name="plate_blue_deep">#132E5B</color>
+    <color name="plate_red">#C8281D</color>
+    <color name="plate_yellow">#F4B400</color>
+    <color name="chalk">#F3F1EC</color>
+    <color name="chalk_muted">#B4C3DD</color>
+    <color name="ink">#101418</color>
+</resources>
