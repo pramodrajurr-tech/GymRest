@@ -391,7 +391,7 @@ class TimerService : Service() {
             b.setShowWhen(true)
                 .setWhen(countdownEnd)
                 .setUsesChronometer(true)
-                .setChronometerCountsDown(true)
+                .setChronometerCountDown(true)
                 .addAction(serviceAction(1, ACTION_CANCEL, "Skip rest"))
         } else {
             b.setShowWhen(false)
